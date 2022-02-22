@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rus Sharafiev
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning HTML/CSS, PHP/mySQL, JS and make my first steps in web dev
+- 📫 Mail me on srr@live.ru
