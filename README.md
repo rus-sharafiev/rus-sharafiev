@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rus Sharafiev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML/CSS, PHP/mySQL, JS
+- 🌱 I’m currently learning HTML/CSS, PHP/mySQL, JS/React
 - 📫 Mail me on srr@live.ru
