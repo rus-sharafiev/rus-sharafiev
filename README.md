@@ -6,9 +6,10 @@ The technology stack includes:
 - HTML5
 - CSS3 / LESS
 - TypeScript / ES6+
-  - ReactJS (FC)
-  - Redux
-  - React Router 6
+  - ReactJS 18 (FC)
+    - Redux / RTK
+    - React Router 6
+    - Formik
 - NodeJS
   - [Fastify](https://www.fastify.io/) 
   - SSG (React DOM Server)
