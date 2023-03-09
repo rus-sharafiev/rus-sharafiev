@@ -9,11 +9,12 @@ The technology stack includes:
   - ReactJS 18 (FC)
     - Redux / RTK
     - React Router 6
-    - Formik
 - NodeJS
-  - [Fastify](https://www.fastify.io/) 
+  - [Fastify](https://www.fastify.io/)
+  - [NestJS](https://nestjs.com/)
+  - [Prisma](https://www.prisma.io/)
+  - PostgreSQL
   - SSG (React DOM Server)
-  - MySQL (workig with databases)
 - PHP8 / MySQL8 (workig with databases)
 
 Development tools includes VS Code, Apache, Node, esbuild
