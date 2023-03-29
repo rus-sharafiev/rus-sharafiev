@@ -1,4 +1,4 @@
-## <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" height="20" />  ReactJS Frontend Developer
+## <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" height="20" />  ReactJS/NestJS Developer
 
 I've been doing web development since 2020. During this time, I've developed several projects, including commercial ones, which have been done from scratch, including design and backend. I have extensive experience in deploying and administering operating systems of the Windows and Ubuntu families, local and virtual private networks. Development is carried out on the remote personal Ubuntu server. Have strong knowledge of Adobe Illustrator and Adobe Photoshop.
 
