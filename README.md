@@ -18,3 +18,5 @@ The technology stack includes:
 - PHP8 / MySQL8 (workig with databases)
 
 Development tools includes VS Code, Apache, Node, esbuild
+
+![Rus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rus-sharafiev&count_private=true&show_icons=true&theme=transparent)
