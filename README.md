@@ -17,6 +17,6 @@ The technology stack includes:
     - SSG (React DOM Server)
 - PHP8 / MySQL8 (workig with databases)
 
-Development tools includes VS Code, Apache, Node, esbuild
+Development tools includes VS Code, esbuild, nginx
 
 ![Rus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rus-sharafiev&count_private=true&show_icons=true&theme=transparent)
