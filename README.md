@@ -19,4 +19,4 @@ The technology stack includes:
 
 Development tools includes VS Code, esbuild, nginx
 
-![Rus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rus-sharafiev&count_private=true&show_icons=true&theme=transparent)
+![Rus's GitHub stats](https://github-stats-rus-sharafiev.vercel.app/api?username=rus-sharafiev&count_private=true&show_icons=true&theme=transparent)
