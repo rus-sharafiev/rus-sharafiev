@@ -23,5 +23,3 @@ The technology stack includes:
  - Golang (training in progress)
 
 Development tools includes VS Code, esbuild, nginx
-
-![Rus's GitHub stats](https://github-stats-rus-sharafiev.vercel.app/api?username=rus-sharafiev&count_private=true&show_icons=true&theme=transparent)
