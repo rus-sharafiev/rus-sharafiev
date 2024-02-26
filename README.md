@@ -4,7 +4,7 @@ Web developer since 2020.
 For now, have been completed several projects, including commercial ones that were done from scratch.  
 I have extensive experience in deploying and administering Windows and Ubuntu operating systems, as well as local and virtual private networks. Development is carried out on the remote personal Ubuntu server.
 
-For React development, I've created [custom bundler](https://github.com/rus-sharafiev/dev-server) with web server based on esbuild and written in [Go](https://go.dev/).
+For React development, I've created esbuild based [custom bundler](https://github.com/rus-sharafiev/dev-server) with a web server and written in [Go](https://go.dev/).
 
 The technology stack includes:
 - HTML5
