@@ -1,25 +1,22 @@
-## <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16" height="16" /> ReactJS&ensp;/&ensp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="16" height="16" /> NestJS Developer
+## <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="16" /> ReactJS&ensp;/&ensp;<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="16" /> Go Developer
 
-Web developer since 2020.  
-For now, have been completed several projects, including commercial ones that were done from scratch.  
-I have extensive experience in deploying and administering Windows and Ubuntu operating systems, as well as local and virtual private networks. Development is carried out on the remote personal Ubuntu server.
+Web developer since 2020.
 
-For React development, I've created esbuild based [custom bundler](https://github.com/rus-sharafiev/dev-server) with a web server and written in [Go](https://go.dev/).
+For React development, I've created standalone [custom bundler](https://github.com/rus-sharafiev/dev-server). 
+Written in Go and based on the [esbuild](https://esbuild.github.io), it provides a web server for development (with reload on rebuild), creates minified production build, and deploys the project to a remote server via ssh.
 
-The technology stack includes:
+My tech stack:
 - HTML5
 - CSS3 / SCSS / LESS
 - TypeScript / ES6+
   - ReactJS 18+ (FC)
     - Redux / RTK
     - React Router 6
-  - Web components
   - NodeJS
     - [Fastify](https://www.fastify.io/)
     - [NestJS](https://nestjs.com/)
     - [Prisma](https://www.prisma.io/)
-    - SSG (React DOM Server)
  - PostgreSQL
- - Golang (training in progress)
+ - Go (Web Dev)
 
 Development tools includes VS Code, esbuild, nginx
